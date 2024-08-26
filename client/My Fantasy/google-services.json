@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "81739394046",
+    "firebase_url": "https://myfantasy-4e7ec.firebaseio.com",
+    "project_id": "myfantasy-4e7ec",
+    "storage_bucket": "myfantasy-4e7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81739394046:android:00973d145189bb66",
+        "android_client_info": {
+          "package_name": "My_Fantasy.My_Fantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81739394046-e1jc0e3eieaudbd5m9ovr2nk39b09jb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "My_Fantasy.My_Fantasy",
+            "certificate_hash": "592f68135e7c840ce0173053024f50a9ba8d2e30"
+          }
+        },
+        {
+          "client_id": "81739394046-7dc024ud99dard9u8c571um2i77j4alr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB--7on2cb_75eEDVfHC530B8OLfOxx7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81739394046-7dc024ud99dard9u8c571um2i77j4alr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
